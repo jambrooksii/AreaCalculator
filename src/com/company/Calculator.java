@@ -19,7 +19,7 @@ public class Calculator {
     }
 
     public double calculateTriangle(double width, double base, String shape1){
-        double triArea = (base / 2) * height;
+        double triArea = (base / 2) * width;
         return triArea;
     }
 

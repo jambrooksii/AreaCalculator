@@ -33,7 +33,7 @@ public class CalculatorDemo {
 
 
         System.out.println(newCalc.calculateArea(4, 6, "rectangle"));
-        System.out.println(newCalc1.calculateTriangle(5, 7, "triangle"));
+        System.out.println("The Area of your triangle is  " + newCalc1.calculateTriangle(5, 7, "triangle"));
       //  System.out.println((triangleCalc.getBase() /2) * triangleCalc.getHeight());
 
     }

@@ -4,13 +4,12 @@
     <list default="true" id="a4f1323e-372c-4a5f-a4a7-f66bf3dde7c2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../ATMMachine/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AdventureGame/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Calculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Divisibility/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Divisibility/out/production/Divisibility/com/company/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../dogProgram/src/com/company/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CalculatorDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Divisibility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Divisibility/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Divisibility/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Divisibility/src/com/company/Main.java" afterDir="false" />
     </list>
@@ -26,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/CalculatorDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="362">
               <caret line="35" column="62" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
             </state>
           </provider>
@@ -35,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="315">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
               <folding>
                 <element signature="e#725#726#0" expanded="true" />
                 <element signature="e#751#752#0" expanded="true" />
@@ -67,8 +66,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CalculatorDemo.java" />
         <option value="$PROJECT_DIR$/src/com/company/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CalculatorDemo.java" />
       </list>
     </option>
   </component>
@@ -92,7 +91,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548192333923" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548213946659" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,12 +132,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548185424750</updated>
-      <workItem from="1548185426127" duration="6688000" />
+      <workItem from="1548185426127" duration="7446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6688000" />
+    <option name="totallyTimeSpent" value="7446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="877" extended-state="0" />
@@ -159,7 +158,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -181,15 +180,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/CalculatorDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="362">
           <caret line="35" column="62" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="315">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
           <folding>
             <element signature="e#725#726#0" expanded="true" />
             <element signature="e#751#752#0" expanded="true" />
