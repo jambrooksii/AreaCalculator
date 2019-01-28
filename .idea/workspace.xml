@@ -4,10 +4,27 @@
     <list default="true" id="a4f1323e-372c-4a5f-a4a7-f66bf3dde7c2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../ATMMachine/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AdventureGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Books/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Books/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Books/src/com/company/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Books/src/com/company/Libary.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Divisibility/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Divisibility/out/production/Divisibility/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeAShape/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeShape/src/com/company/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeShape/src/com/company/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MakeShape/src/com/company/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SandwhichMaker/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SandwhichMaker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SandwhichMaker/src/com/company/Sandwhich.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../dogProgram/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ok/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AreaCalculator/com/company/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AreaCalculator/com/company/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AreaCalculator/com/company/CalculatorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AreaCalculator/com/company/CalculatorDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/CalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CalculatorDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Divisibility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Divisibility/.idea/workspace.xml" afterDir="false" />
@@ -22,29 +39,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/CalculatorDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="35" column="62" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+            <state relative-caret-position="95">
+              <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            <state relative-caret-position="288">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
-                <element signature="e#725#726#0" expanded="true" />
-                <element signature="e#751#752#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-                <element signature="e#799#800#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
-                <element signature="e#871#872#0" expanded="true" />
-                <element signature="e#898#899#0" expanded="true" />
-                <element signature="e#923#924#0" expanded="true" />
+                <element signature="e#1244#1245#0" expanded="true" />
+                <element signature="e#1271#1272#0" expanded="true" />
+                <element signature="e#1311#1312#0" expanded="true" />
+                <element signature="e#1343#1344#0" expanded="true" />
+                <element signature="e#1376#1377#0" expanded="true" />
+                <element signature="e#1405#1406#0" expanded="true" />
+                <element signature="e#1449#1450#0" expanded="true" />
+                <element signature="e#1485#1486#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,7 +108,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548213946659" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548697054687" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,72 +150,74 @@
       <option name="presentableId" value="Default" />
       <updated>1548185424750</updated>
       <workItem from="1548185426127" duration="7446000" />
+      <workItem from="1548267297580" duration="94000" />
+      <workItem from="1548688111529" duration="8309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7446000" />
+    <option name="totallyTimeSpent" value="15849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.056809906" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05826657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3299363" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/CalculatorDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="35" column="62" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+        <state relative-caret-position="288">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#1311#1312#0" expanded="true" />
+            <element signature="e#1343#1344#0" expanded="true" />
+            <element signature="e#1376#1377#0" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1485#1486#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/CalculatorDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-          <folding>
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-            <element signature="e#871#872#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="95">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
         </state>
       </provider>
     </entry>
